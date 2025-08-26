@@ -97,4 +97,5 @@ Diagram: Customers ---> Webpage or App ------> Payment ------>Bank
    Accept: Decide that the risks are on the lowest levet.
 
   # b4) Did we do a good enough job?
-     I guess in cyber security its never enough but for now as I said before we did well but I would still make security test on my systems and probably keep my threat modelling updated.
+   
+   I guess in cyber security its never enough but for now as I said before we did well but I would still make security test on my systems and probably keep my threat modelling updated.
