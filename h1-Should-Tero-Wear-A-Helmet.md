@@ -30,11 +30,11 @@ Threat modeling should be repaiting a lot.
  I listened this episode because there was more then one stories but the most exciting one for me was pen tester trying and failing to sneak into a data center.
 
 # a) Security Hygiene: 
-## a1)What basic security practices should everyone follow?
+## a1) What basic security practices should everyone follow?
 
 Use unique and strong passwords,  use two-factor authenticator on your accounts, use antivirus programs to protect your devices, maybe you can enable find my device through your device for any chances of losing the device and most importantly (at least for me) be careful with emails. Because these mails could carry a virus that easily get in to your computer with one click
 
-## a2)Are there some security hygiene practicies that every company or average Joe should follow?
+## a2) Are there some security hygiene practicies that every company or average Joe should follow?
 
 For companies there are a lot of things but these are the most important ones in my opinion. Keep your antivirus and other softwares updated all the time, give lessons to employees about security awareness, backup your data and things are important for company, encrypt companie's sensitive data and monitor unusual activities like logging in a suspicious device.
 
