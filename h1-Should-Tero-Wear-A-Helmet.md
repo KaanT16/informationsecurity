@@ -1,4 +1,26 @@
 # h1- Should Tero Wear A Helmet
+
+# Threat Modelling
+
+## Braiterman et al 2020: Threat modeling manifesto
+There are four key questions and these are: What are we working on?, what can go wrong, what are we going to do about it and did we do a good enough job.
+Firstly focus on protect to important assets.
+Continuous and collaborative process.
+
+## Shostack 2022: Welcome to the Worlds Shortest Threat Modeling Course
+Uses the same four key question method as I mentioned on Braiterman.
+Simple diagrams helps.
+Threat modeling should be repaiting a lot.
+
+## OWASP CheatSheets Series Team 2021: Threat Modeling Cheat Sheet
+ Breaks the threat modeling to four steps: System or application decomposition, threat identification and ranking, defining mitigations, review and validation.
+ Emphasizes understanding the system via data flow diagrams.
+
+ # Infosec Scene
+ ## Darknet dairies Episode
+ I listened to Episode 42: Mini stories vol 2:
+ I listened this episode because there was more then one stories but the most exciting one for me was pen tester trying and failing to sneak into a data center.
+
 # a) Security Hygiene: 
 ## a1)What basic security practices should everyone follow?
 Use unique and strong passwords,  use two-factor authenticator on your accounts, use antivirus programs to protect your devices, maybe you can enable find my device through your device for any chances of losing the device and most importantly (at least for me) be careful with emails. Because these mails could carry a virus that easily get in to your computer with one click
