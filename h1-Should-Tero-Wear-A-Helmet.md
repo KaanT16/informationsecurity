@@ -18,7 +18,7 @@ Diagram: Customers ---> Webpage or App ------> Payment ------>Bank
                              |
                              V
                          Order System -----> Courier System
-## b2)What can go wrong?
+## b2) What can go wrong?
   Risks: Denial of Service: There could be bot attacks to the server of the web page. Because of that customers cant give any orders and we cant make many because of that
          Information Disclosure: Customer addresses and payment details could be leaked and if it happens we would lose the trust of our costumers and it would affect us bad.
          Spoofing: If any authorized person's login informations got stolen by the hacker he can use this to trick the customers for to reach their important informations.
@@ -31,12 +31,12 @@ Diagram: Customers ---> Webpage or App ------> Payment ------>Bank
         Personal misuse.
   Threat Actors probly would be cybercriminals who seeks money from customer information and the other things and I am not sure but could be the insiders cause there could be corrupted people inside of us to lose money to our company.
 
-  ## b3)What are we going to do about it?
+  ## b3) What are we going to do about it?
     I will use the META method to help my company about it.
       Mitigate: I would firstly enforce my employees to use MFA. Then I would start monitoring the loggings, having a good DDoS protection and I would use a firewall for my webpage.
       Eliminate: I would always delete the old versions of our apps after a new update fo the app and I would also delete all unused employee and admin accounts.
       Transfer: I would use buy a cyber insurance for the data breaches.
       Accept: Decide that the risks are on the lowest levet.
 
-  # b4)Did we do a good enough job?
+  # b4) Did we do a good enough job?
      I guess in cyber security its never enough but for now as I said before we did well but I would still make security test on my systems and probably keep my threat modelling updated.
