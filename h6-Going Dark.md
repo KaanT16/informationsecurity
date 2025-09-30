@@ -49,3 +49,17 @@
 Firstly I used "sudo apt-get update" to get updates and after that I used "sudo apt-get install torbrowser-launcher" command to download the Tor. After the installation is complete I used "torbrowser-launcher" command to open the browser. After that I went to ahmia for the .onion ending.
 
 <img width="1551" height="995" alt="Tor1" src="https://github.com/user-attachments/assets/3e209d0d-2000-41ae-bc24-1a9a22471ded" />
+
+#h1 Browse TOR network, find, take screenshots and comment
+
+Firstly I went to ahmia to start searching websites and started with BBC for the knowns organization and after that looked for a marketplace and a forum and found a really weird forum for Turkey's politics.
+
+<img width="1553" height="979" alt="Tor2" src="https://github.com/user-attachments/assets/db59a6f0-8e5e-460e-894a-c05a155331a8" />
+
+<img width="1553" height="989" alt="Tor3" src="https://github.com/user-attachments/assets/c82ae91c-fb83-42c2-a3be-b95bdb066177" />
+
+<img width="1557" height="981" alt="Tor4" src="https://github.com/user-attachments/assets/3d7d995a-ed75-480c-b6fb-e97fc597328b" />
+
+For my comments about this websites I would say I got a bit shocked because like you can even buy stuffs that illegal easily and that forum was a bit weird not gonna lie. At the end it was a really different experience.
+
+
