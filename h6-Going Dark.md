@@ -17,3 +17,13 @@
 7. Significance: Important for free expression and global digital rights.
 
 #h2 Shavers & Bair (2016) – Hiding Behind the Keyboard: The Tor Browser
+
+#h2 Introduction:
+
+- Tor is one of the main tools fon anonymous web surf.
+
+- It uses for legal and unfortunetly also for criminal things.
+
+#h2 History of it and useage reason
+
+- Developed in the 1990s by the U.S Navy.
